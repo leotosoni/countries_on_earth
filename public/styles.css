@@ -1,0 +1,25 @@
+body{
+    font-family: "Fira Sans", sans-serif;
+/*     background-image: url(./background-1762690_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+    background-color: rgb(28, 146, 159);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.image{
+    padding: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+img{
+    height: 400px;
+    box-shadow: 0 0 30px 30px white inset;
+}
